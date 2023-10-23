@@ -1,0 +1,24 @@
+  :::::::::::     :::    :::      :::    :::                    ::::::::          :::         :::   :::      ::::::::::     
+     :+:         :+:    :+:      :+:    :+:                   :+:    :+:       :+: :+:      :+:+: :+:+:     :+:           
+    +:+         +:+    +:+       +:+  +:+                    +:+             +:+   +:+    +:+ +:+:+ +:+    +:+           
+   +#+         +#+    +:+        +#++:+     +#++:++#++:++   :#:            +#++:++#++:   +#+  +:+  +#+    +#++:++#           
+  +#+         +#+    +#+       +#+  +#+                    +#+   +#+#     +#+     +#+   +#+       +#+    +#+           
+ #+#         #+#    #+#      #+#    #+#                   #+#    #+#     #+#     #+#   #+#       #+#    #+#           
+###          ########       ###    ###                    ########      ###     ###   ###       ###    ##########           
+
+********************************************************
+*                                                      *
+*     Benvenuti a Tux-Game, il gioco per imparare il   *
+*     terminale giocando!                              *
+*                                                      *
+********************************************************
+
+Siete pronti per un'avventura emozionante? Tux-Game è un C TF con 10 livelli da superare, ciascuno più intrigante del precedente.
+Ogni utente rappresenta un nuovo livello, e il vostro obiettivo è trovare la flag segreta in ogni livello.
+
+Il mondo del terminale è il vostro playground, dove imparerete a padroneggiare il potere della linea di comando, risolvere sfide e acquisire conoscenze preziose.
+
+Buona fortuna, avventurieri del terminale! Che l'avventura inizi!
+
+********************************************************
+

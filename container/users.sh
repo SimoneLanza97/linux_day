@@ -6,9 +6,7 @@ while [ $i -le 10 ]; do
     username="utente$i"
     password="${passwords[$i-1]}"
     
-    useradd -m $username  # Crea l'utente con la directory home
+    useradd -m -s /bin/bash $username  # Crea l'utente con la directory home
     echo "$username:$password" | chpasswd  # Imposta la password
-    chsh -s bash $username 
     i=$((i+1))
 done
-
