@@ -17,7 +17,7 @@ if [ -e "$file" ]; then
     #password in alberatura cartelle
     pass3=$(awk -F',' '{print $4}' "$file")
     mkdir -p /home/utente3/data/Tux/Ubuntu/Distro/Geek/Penguin/Fun /home/utente3/data/OpenSource/DistroLand/PenguinWorld home/utente3/data/LinuxHub/TuxPlanet/
-    echo "password utente 4: $pass4" > "/home/utente3/data/LinuxHub/TuxPlanet/utente4_pwd.txt"
+    echo "password utente 4: $pass3" > "/home/utente3/data/LinuxHub/TuxPlanet/utente4_pwd.txt"
 
     #password compresa in stringa casuale
     pass4=$(awk -F',' '{print $5}' "$file")
@@ -25,7 +25,7 @@ if [ -e "$file" ]; then
     mkdir -p /home/utente4/data2/secrets2
     random_string=$(openssl rand -base64 300000) 
     echo $random_string >> "/home/utente4/data/secrets/utente5_pwd.txt"
-    echo "passwordutente5:$pass5 ARjHuVVyyDEmFO5y/ilc9qQaumRNjRLdJIKzmnLF+8nCApxVX0Jmb4yzroo/42nr" >> "/home/utente4/data/secrets/utente5_pwd.txt"
+    echo "passwordutente5:$pass4 ARjHuVVyyDEmFO5y/ilc9qQaumRNjRLdJIKzmnLF+8nCApxVX0Jmb4yzroo/42nr" >> "/home/utente4/data/secrets/utente5_pwd.txt"
     echo $random_string >> "/home/utente4/data/secrets/utente5_pwd.txt"
 
     #password nel file *new*
