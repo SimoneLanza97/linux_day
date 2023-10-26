@@ -20,5 +20,10 @@ Il mondo del terminale è il vostro playground, dove imparerete a padroneggiare 
 
 Buona fortuna, avventurieri del terminale! Che l'avventura inizi!
 
+user      |     password   
+------------------------
+utente1   |     qoP54Am& 
+
+
 ********************************************************
 
